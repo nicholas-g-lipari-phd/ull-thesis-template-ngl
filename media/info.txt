@@ -1,1 +1,0 @@
-Place images here since the line \graphicspath{{media/}} declares it so

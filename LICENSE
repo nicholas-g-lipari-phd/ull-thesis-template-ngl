@@ -1,0 +1,10 @@
+UL Lafayette Thesis Template Licensing Notes
+
+The principal template source files in this repository state that the work is licensed under the Creative Commons Attribution-NonCommercial 3.0 United States license (CC BY-NC 3.0 US).
+
+License information and legal code:
+https://creativecommons.org/licenses/by-nc/3.0/us/
+
+This repository includes material with separate historical provenance. In particular, files under `template/acmtrans/` identify themselves as adaptations of older ACM and Chicago bibliography-style work. Their file headers do not state that they are covered by the Creative Commons license above. Those files therefore remain subject to whatever rights and restrictions apply to their respective upstream works, and this repository does not purport to relicense them.
+
+Where an individual file contains its own copyright, license, or provenance notice, that file-specific notice takes precedence over this repository-level summary.
